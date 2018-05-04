@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<android.inputmethodservice.KeyboardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/keyboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:keyTextColor="#fff"
+        android:background="@color/colorPrimary"
+        android:keyBackground="@color/colorPrimary"
+        android:keyPreviewLayout ="@layout/preview"
+        >
+
+     <!--   <EditText android:imeOptions="actionSearch"
+        android:id="@+id/search"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="search"
+        android:inputType="text"/>-->
+
+
+</android.inputmethodservice.KeyboardView>
